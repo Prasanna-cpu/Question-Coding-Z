@@ -4,28 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6499451-925e-4b33-87ff-29818bad1430" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/ZohoCoding.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExpandStrings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FindSubstring.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MazeSolving.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MergeSortedArrays.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MinimumNumberOfTimeToRepresentSumOfSquares.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PrintNumbersInFibonacci.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PrintXPattern.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReverseEachWords.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReverseRecursion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SecondMostFrequent.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SlidingWindowMaximum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SortOddEvenIndexElements.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WordBreak.py" afterDir="false" />
+    <list default="true" id="c6499451-925e-4b33-87ff-29818bad1430" name="Changes" comment="Commit">
+      <change afterPath="$PROJECT_DIR$/CountHeads.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RotateArray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SumOfDiagonal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MazeSolving.py" beforeDir="false" afterPath="$PROJECT_DIR$/MazeSolving.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +37,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.CountHeads.executor": "Run",
     "Python.ExpandStrings.executor": "Run",
     "Python.MinimumNumberOfTimeToRepresentSumOfSquares.executor": "Run",
     "Python.PrintXPattern.executor": "Run",
@@ -88,14 +73,29 @@
       <updated>1724223205614</updated>
       <workItem from="1724223206995" duration="1413000" />
       <workItem from="1724224649005" duration="8099000" />
+      <workItem from="1724245239252" duration="3038000" />
     </task>
+    <task id="LOCAL-00001" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1724245304399</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1724245304399</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/ZohoCoding$ReverseRecursion.coverage" NAME="ReverseRecursion Coverage Results" MODIFIED="1724236463385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZohoCoding$CountHeads.coverage" NAME="CountHeads Coverage Results" MODIFIED="1724250813305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ZohoCoding$SortOddEvenIndexElements.coverage" NAME="SortOddEvenIndexElements Coverage Results" MODIFIED="1724224811811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ZohoCoding$MinimumNumberOfTimeToRepresentSumOfSquares.coverage" NAME="MinimumNumberOfTimeToRepresentSumOfSquares Coverage Results" MODIFIED="1724238395539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ZohoCoding$ExpandStrings.coverage" NAME="ExpandStrings Coverage Results" MODIFIED="1724224091007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
